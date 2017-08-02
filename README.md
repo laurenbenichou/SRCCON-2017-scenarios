@@ -19,3 +19,8 @@ Come up with a set of guidelines and principles for newsroom to consult. The gui
 ### The scenarios
 + [Cloud Leak: Customer Data Exposed | Large Newsroom edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-1.md).
 + [Cloud Leak: Customer Data Exposed | Small Newsroom edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md).
++ [4chan: Hackers Target Your Editorial Staff | Small Newsroom edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md).
++ [Money Pixels: Additional trackers | Small Newsroom edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md).
++ [Intercept: Outing Your Source | Small Newsroom edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md).
++ [WIRED InfoSec: Passwords Exposed | Small Newsroom edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md).
++ [Hacked: Homepage Defaced, Articles Manipulated](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md).
