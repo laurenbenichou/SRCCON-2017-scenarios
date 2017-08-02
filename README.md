@@ -17,10 +17,15 @@ Privacy in the digital world is complex and it is time for newsrooms to solidify
 Come up with a set of guidelines and principles for newsroom to consult. The guidelines should cover ethical, behavioral, and technological threats to users privacy. The document will be open-sourced.
 
 ### The scenarios
-+ [Cloud Leak: Customer Data Exposed | Large Newsroom edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-1.md).
-+ [Cloud Leak: Customer Data Exposed | Small Newsroom edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md).
-+ [4chan: Hackers Target Your Editorial Staff | Small Newsroom edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md).
-+ [Money Pixels: Additional trackers | Small Newsroom edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md).
-+ [Intercept: Outing Your Source | Small Newsroom edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md).
-+ [WIRED InfoSec: Passwords Exposed | Small Newsroom edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md).
-+ [Hacked: Homepage Defaced, Articles Manipulated](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md).
++ [Cloud Leak: Customer Data Exposed | Large Newsroom Edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-1.md)
++ [Cloud Leak: Customer Data Exposed | Small Newsroom Edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md)
++ [4Chan: Hackers Target Your Editorial Staff | Large Newsroom Edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md)
++ [4Chan: Hackers Target Your Editorial Staff | Small Newsroom edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md)
++ [Money Pixels: Additional trackers | Large Newsroom Edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md)
++ [Money Pixels: Additional trackers | Small Newsroom edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md)
++ [Intercept: Outing Your Source | Large Newsroom Edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md)
++ [Intercept: Outing Your Source | Small Newsroom Edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md)
++ [WIRED InfoSec: Passwords Exposed | Large Newsroom Edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md)
++ [WIRED InfoSec: Passwords Exposed | Small Newsroom Edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md)
++ [Hacked: Homepage Defaced, Articles Manipulated | Large Newsroom Edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md)
++ [Hacked: Homepage Defaced, Articles Manipulated | Small Newsroom Edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md)
