@@ -5,18 +5,15 @@ tagline: Customer Data Exposed
 description:
 ---
 
-## : Customer Data Exposed
-
-
-<img src="https://media.giphy.com/media/JGunlb6LbQlz2/giphy.gif" width="480" height="270"></img><p><a href="https://giphy.com/gifs/water-tank-flex-JGunlb6LbQlz2">via GIPHY</a></p>
+![leak](https://media.giphy.com/media/JGunlb6LbQlz2/giphy.gif)
 
 ### The Scenario
 You were just informed that a cloud-based backup folder was publicly available to anybody with an Amazon account. This storage contained all of your customers' names, addresses, account information, email addresses, and last four digits of their credit cards. The leak originated from incorrectly setting permissions on the concerned folder, thus allowing anybody with the folder's name to access it. There are no logs and so you cannot know who accessed it or when it was accessed. It is common for your engineering team to access this folder.
 
 ### Your Newsroom
-**You:** Major newspaper.
+**You:** Local newspaper.
 
-**Resources**: Large development team, legal team, and a full PR team to assist you.
+**Resources**:  One developer (overworked), and an expensive out-of-house counsel.
 
 ### Next Steps 😱😱😱😱😱😱
 **What do you do?**
@@ -26,7 +23,7 @@ You were just informed that a cloud-based backup folder was publicly available t
 
 =================WARNING=================
 
---> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/additional/cloud-leak-1.md). <--
+--> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/additional/cloud-leak-2.md). <--
 
 =================WARNING=================
 
