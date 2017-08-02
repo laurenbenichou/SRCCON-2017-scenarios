@@ -1,4 +1,9 @@
-## Cloud Leak: Customer Data Exposed
+---
+layout: page
+title: Cloud Leak
+tagline: Customer Data Exposed
+description:
+---
 
 
 ![leak](https://media.giphy.com/media/JGunlb6LbQlz2/giphy.gif)
@@ -19,7 +24,7 @@ You were just informed that a cloud-based backup folder was publicly available t
 
 =================WARNING=================
 
---> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2-twist.md). <--
+--> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/additional/cloud-leak-2.md). <--
 
 =================WARNING=================
 
