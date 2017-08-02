@@ -7,11 +7,12 @@ You were just informed that a cloud-based backup folder was publicly available t
 
 😱**What do you do?**😱
 
-
---> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT]('cloud-leak-1-twist.md'). <--
-
+************************
+--> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT]('https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-1-twist.md'). <--
+************************
 
 
 **Background information:**
+
 *Date of public announcement: July 17, 2017
 Source: https://www.upguard.com/breaches/cloud-leak-dow-jones*
