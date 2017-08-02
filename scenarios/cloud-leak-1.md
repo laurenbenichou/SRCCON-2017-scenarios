@@ -6,14 +6,13 @@
 ### The Scenario
 You were just informed that a cloud-based backup folder was publicly available to anybody with an Amazon account. This storage contained all of your customers' names, addresses, account information, email addresses, and last four digits of their credit cards. The leak originated from incorrectly setting permissions on the concerned folder, thus allowing anybody with the folder's name to access it. There are no logs and so you cannot know who accessed it or when it was accessed. It is common for your engineering team to access this folder.
 
-### Who are you
-**You:** major newspaper.
+### Your Role
+**You:** Major newspaper.
 
-**Resources**: large development team, legal team, and a full PR team to assist you.
+**Resources**: Large development team, legal team, and a full PR team to assist you.
 
-### Next Steps
-
-😱 **What do you do?** 😱
+### Next Steps 😱😱😱😱😱😱
+**What do you do?**
  + consider solutions
  + consider prevention
 
@@ -24,6 +23,7 @@ You were just informed that a cloud-based backup folder was publicly available t
 
 =================WARNING=================
 
+---
 
 **Background information:**
 
