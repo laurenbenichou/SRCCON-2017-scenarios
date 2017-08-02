@@ -7,11 +7,11 @@ You were just informed that a cloud-based backup folder was publicly available t
 
 😱 **What do you do?** 😱
 
-**********WARNING**************
+=================WARNING=================
 
 --> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-1-twist.md). <--
 
-**********WARNING**************
+=================WARNING=================
 
 
 **Background information:**
