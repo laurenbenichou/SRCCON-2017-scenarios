@@ -9,4 +9,4 @@ description:
 
 ### The Twist 😱😱😱😱😱
 
-Before you’re ready to say anything publicly, The Washington Post does an exposé on the leak and what kind of data is available. It is immediately picked up by every major news outlet, and widely reported that day. The press is calling you for comment.
+As you are looking at each of the trackers, you find out that one of them comes from a company that is known to be particularly careless with user’s data. It seems like they could be more malicious with the tracking of data— and possibly steal user’s data from the page. 

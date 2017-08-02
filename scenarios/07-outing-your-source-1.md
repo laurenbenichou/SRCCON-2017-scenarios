@@ -30,7 +30,7 @@ Shortly after a major story is released about a hidden government program, the l
 
 =================WARNING=================
 
---> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT](./additional/LINKLINK.html). <--
+--> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT](./additional/07-outing-your-source-1.html). <--
 
 =================WARNING=================
 

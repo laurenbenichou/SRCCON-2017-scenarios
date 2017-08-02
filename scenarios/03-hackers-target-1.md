@@ -27,7 +27,7 @@ Last week, one of your writers wrote a story about an infamous troll that is nea
 
 =================WARNING=================
 
---> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT](./additional/LINKLINK.html). <--
+--> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT](./additional/03-hackers-target-1.html). <--
 
 =================WARNING=================
 

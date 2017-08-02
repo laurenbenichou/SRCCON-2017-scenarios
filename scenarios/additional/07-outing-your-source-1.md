@@ -9,4 +9,4 @@ description:
 
 ### The Twist 😱😱😱😱😱
 
-Before you’re ready to say anything publicly, The Washington Post does an exposé on the leak and what kind of data is available. It is immediately picked up by every major news outlet, and widely reported that day. The press is calling you for comment.
+As this story is coming in, another reporter has said that they have been working on another story with a source sent on SecureDrop. This source is potentially even more explosive than the previous one, and the reporter has sent the raw documents digitally to the respective agency directly to corroborate the story. You are unsure if there is metadata or other ways to discover the source of the leaks in those files.

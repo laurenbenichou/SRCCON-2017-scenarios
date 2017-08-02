@@ -30,7 +30,7 @@ You just woke up and looked at the front page of the newspaper you work for. The
 
 =================WARNING=================
 
---> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT](./additional/LINKLINK.html). <--
+--> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT](./additional/11-homepage-hacked-1.html). <--
 
 =================WARNING=================
 

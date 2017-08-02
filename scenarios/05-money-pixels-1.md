@@ -30,7 +30,7 @@ You are a developer on the revenue team who has been tasked with adding in a new
 
 =================WARNING=================
 
---> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT](./additional/LINKLINK.html). <--
+--> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT](./additional/05-money-pixels-1.html). <--
 
 =================WARNING=================
 

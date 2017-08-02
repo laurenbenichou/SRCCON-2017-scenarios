@@ -28,7 +28,7 @@ You just got a phone call from a security researcher regarding the security of p
 
 =================WARNING=================
 
---> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT](./additional/LINKLINK.html). <--
+--> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT](./additional/09-passwords-exposed-1.html). <--
 
 =================WARNING=================
 

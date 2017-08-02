@@ -9,4 +9,4 @@ description:
 
 ### The Twist 😱😱😱😱😱
 
-Before you’re ready to say anything publicly, The Washington Post does an exposé on the leak and what kind of data is available. It is immediately picked up by every major news outlet, and widely reported that day. The press is calling you for comment.
+Your IT team did an audit of the system, and discovered that the account was created by an employee. The account information seems to have been published on some know hacker websites. There is no evidence of a more severe breach in the system, and you are unsure why the employee would publish an account like this.
