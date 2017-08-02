@@ -17,5 +17,5 @@ Privacy in the digital world is complex and it is time for newsrooms to solidify
 Come up with a set of guidelines and principles for newsroom to consult. The guidelines should cover ethical, behavioral, and technological threats to users privacy. The document will be open-sourced.
 
 #### The scenarios
-+ [Cloud Leak: Customer Data Exposed | Large Newsroom edition]('https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-1.md').
-+ [Cloud Leak: Customer Data Exposed | Small Newsroom edition]('https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-1.md').
++ [Cloud Leak: Customer Data Exposed | Large Newsroom edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-1.md).
++ [Cloud Leak: Customer Data Exposed | Small Newsroom edition](https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-2.md).
