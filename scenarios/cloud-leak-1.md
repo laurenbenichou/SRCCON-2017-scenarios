@@ -5,7 +5,7 @@ You were just informed that a cloud-based backup folder was publicly available t
 **You:** major newspaper.
 **Resources**: large development team, legal team, and a full PR team to assist you.
 
-😱**What do you do?**😱
+😱 **What do you do?** 😱
 
 ************************
 --> [DO NOT CLICK HERE UNTIL WE GIVE YOU THE GREEN LIGHT]('https://github.com/laurenbenichou/SRCCON-2017-scenarios/blob/master/scenarios/cloud-leak-1-twist.md'). <--
@@ -14,5 +14,6 @@ You were just informed that a cloud-based backup folder was publicly available t
 
 **Background information:**
 
-*Date of public announcement: July 17, 2017
-Source: https://www.upguard.com/breaches/cloud-leak-dow-jones*
+*Date of public announcement: July 17, 2017*
+
+*Source: https://www.upguard.com/breaches/cloud-leak-dow-jones*
