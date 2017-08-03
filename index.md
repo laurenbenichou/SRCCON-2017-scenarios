@@ -12,6 +12,7 @@ Hackers, governmental entities, malicious ads, coffeeshop snoopers, airline Wi-f
 Privacy in the digital world is complex and it is time for newsrooms to solidify their footing with new guidelines and tips. We want to explore multiple scenarios involving a privacy breach. The scenarios will cover behavioral, technological, and ethical issues based on real-life examples. You, the newsroom, will tackle the situation given to you. Your mission: come up with a set of guidelines on how to prevent and respond to your specific scenario.
 
 ### The Rules
+
 + Work as a group.
 + Consider your newsroom's resources
 + Take notes!
@@ -25,14 +26,11 @@ Come up with a set of guidelines and principles for newsroom to consult. The gui
 ### The scenarios
 
 1. [Cloud Leak: Customer Data Exposed](./scenarios/01-cloud-leak-1.html)
+1. [4Chan: Hackers Target Your Editorial Staff](./scenarios/03-hackers-target-1.html)
+1. [Intercept: Outing Your Source](./scenarios/07-outing-your-source-1.html)
+1. [WIRED InfoSec: Passwords Exposed](./scenarios/09-passwords-exposed-1.html)
+1. [Money Pixels: Additional trackers](./scenarios/06-money-pixels-2.html)
+1. [Hacked: Homepage Defaced, Articles Manipulated](./scenarios/11-homepage-hacked-1.html)
+1. [Cloud Leak: Customer Data Exposed](./scenarios/02-cloud-leak-2.html)
 1. [4Chan: Hackers Target Your Editorial Staff](./scenarios/04-hackers-target-2.html)
 1. [Money Pixels: Additional trackers](./scenarios/05-money-pixels-1.html)
-1. [Intercept: Outing Your Source](./scenarios/08-outing-your-source-2.html)
-1. [WIRED InfoSec: Passwords Exposed](./scenarios/09-passwords-exposed-1.html)
-1. [Hacked: Homepage Defaced, Articles Manipulated](./scenarios/12-homepage-hacked-2.html)
-1. [Cloud Leak: Customer Data Exposed](./scenarios/02-cloud-leak-2.html)
-1. [4Chan: Hackers Target Your Editorial Staff](./scenarios/03-hackers-target-1.html)
-1. [Money Pixels: Additional trackers](./scenarios/06-money-pixels-2.html)
-1. [Intercept: Outing Your Source](./scenarios/07-outing-your-source-1.html)
-1. [WIRED InfoSec: Passwords Exposed](./scenarios/10-passwords-exposed-2.html)
-1. [Hacked: Homepage Defaced, Articles Manipulated](./scenarios/11-homepage-hacked-1.html)
