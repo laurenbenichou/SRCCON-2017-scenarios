@@ -5,8 +5,9 @@ tagline: Outing your own source
 description:
 ---
 
+![When the source is lost...](https://media.giphy.com/media/lNMyVfxjfzIJO/giphy.gif)
 
-![leak](https://media.giphy.com/media/JGunlb6LbQlz2/giphy.gif)
+[via GIPHY](https://giphy.com/gifs/save-button-doesnt-lNMyVfxjfzIJO)
 
 ### The Scenario
 

@@ -5,8 +5,9 @@ tagline: Additional trackers
 description:
 ---
 
+![He, and a host of other tracking sites, are watching you.](https://media.giphy.com/media/l3vRa71jKG8A8kRfG/giphy.gif)
 
-![leak](https://media.giphy.com/media/JGunlb6LbQlz2/giphy.gif)
+[via GIPHY](https://giphy.com/gifs/borussiadortmund-bvb-borussia-dortmund-l3vRa71jKG8A8kRfG)
 
 ### The Scenario
 

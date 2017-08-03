@@ -5,8 +5,9 @@ tagline: Homepage defaced, articles manipulated
 description:
 ---
 
+![The face we make when we know that somebody is trying to hack us...](https://media.giphy.com/media/PC2uIXaP61lYI/giphy.gif)
 
-![leak](https://media.giphy.com/media/JGunlb6LbQlz2/giphy.gif)
+[via GIPHY](https://giphy.com/gifs/mrw-tries-default-PC2uIXaP61lYI/)
 
 ### The Scenario
 

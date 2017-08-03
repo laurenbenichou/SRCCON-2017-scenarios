@@ -5,7 +5,9 @@ tagline: Hackers target your editorial staff
 description:
 ---
 
-![leak](https://media.giphy.com/media/JGunlb6LbQlz2/giphy.gif)
+![We all know that we just have to hack everything!](https://media.giphy.com/media/14kdiJUblbWBXy/giphy.gif)
+
+[via GIPHY](https://giphy.com/gifs/14kdiJUblbWBXy/)
 
 ### The Scenario
 

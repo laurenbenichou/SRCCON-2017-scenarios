@@ -5,8 +5,9 @@ tagline: Passwords Exposed
 description:
 ---
 
+![Never give in! Never surrender! Erm... the passwords are remembered.](https://media.giphy.com/media/26BROFLJSFhP0cMGk/giphy.gif)
 
-![leak](https://media.giphy.com/media/JGunlb6LbQlz2/giphy.gif)
+[via GIPHY](https://giphy.com/gifs/art-illustration-liannedias-26BROFLJSFhP0cMGk)
 
 ### The Scenario
 
