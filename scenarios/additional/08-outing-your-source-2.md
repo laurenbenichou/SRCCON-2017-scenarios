@@ -11,4 +11,4 @@ description:
 
 ### The Twist 😱😱😱😱😱
 
-As this story is coming in, another reporter has said that they have been working on another story with a source sent on SecureDrop. This source is potentially even more explosive than the previous one, and the reporter has sent the raw documents digitally to the respective agency directly to corroborate the story. You are unsure if there is metadata or other ways to discover the source of the leaks in those files.
+One of your reporters comes to you and says they have been working on a another sensitive story based on documents sent on SecureDrop. This story is potentially even more explosive than the previous one, and the reporter has sent the raw documents digitally to the respective agency to corroborate the story. You are unsure if there is metadata or other ways to track down the source of the leak in those files.

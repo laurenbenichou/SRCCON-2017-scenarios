@@ -11,9 +11,9 @@ description:
 
 ### The Scenario
 
-Your company several very secure ways to gain information from folks. You have a SecureDrop setup to allow anybody to securely and anonymously deliver documents to your journalists. They all follow protocol to a T, and ensure that nothing digital is leaked.
+Your company has several very secure ways to gain information from sources. You have a SecureDrop setup to allow for secure and anonymous delivery of documents to your journalists. They all follow the protocol to a T, and ensure that nothing digital is leaked.
 
-Shortly after a major story is released about a hidden government program, the leaker is outed and arrested soon thereafter. It turns out, the documents that were shared with the government to corroborate claims had micro dots on them that they were able to associate with the user who printed them. You source will most likely face jail time for their actions.
+Shortly after you published a major story about a hidden government program, the leaker is outed and arrested. It turns out, the documents you received via SecureDrop and shared with the government to  corroborate your story had micro dots on them that allowed them to track down the user who printed them. Your source could face prison time.
 
 
 ### Your Newsroom
@@ -40,3 +40,4 @@ Shortly after a major story is released about a hidden government program, the l
 **Background information:**
 
 * [The story](http://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html#.WW1SH9PytE4)
+* [The New York Times](https://www.nytimes.com/2017/06/06/business/media/intercept-reality-winner-russia-trump-leak.html)

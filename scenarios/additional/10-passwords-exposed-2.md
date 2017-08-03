@@ -11,4 +11,4 @@ description:
 
 ### The Twist 😱😱😱😱😱
 
-The CEO of the magazine wants to be as transparent as possible in this matter, and publish all information that you have gathered.
+The EIC of the magazine wants to be as transparent as possible in this matter, and leaves it up to you to deal with this.

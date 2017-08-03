@@ -11,7 +11,9 @@ description:
 
 ### The Scenario
 
-Last week, one of your writers wrote a story about an infamous troll that is near and dear to the 4chan armies. Immediately thereafter it came to your attention from security firms that there was planning to launch an attack against your staff to gain any compromising information from the firm. While there have been no direct attacks yet, there have been threats made on message boards and twitter threatening the safety and security of your employees. There are also memes being passed around claiming that the reporter is a child molestor and telling people to do “what it takes”.
+Last week, one of your reporters wrote a story about an infamous troll, who also happens to be an influential 4chan user.
+
+Shortly after publishing the story, you receive a warning from a security firm: hackers are planning to launch an attack against your staff, and dig up any compromising information. While there has been no direct attacks as of yet, the number of threats has increased, with messages popping up on boards and social media. Memes are being passed around claiming that the reporter in question is a sex offender, encouraging people to do “what it takes”. The safety and privacy of your employees are at stake.
 
 
 ### Your Newsroom

@@ -11,7 +11,7 @@ description:
 
 ### The Scenario
 
-You are a developer on the revenue team who has been tasked with adding in a new campaign that was just sold. While it isn’t a particularly large sale, it will help ensure that the revenue from this quarter is steady. At first, everything seems normal— but upon closer inspection they are asking for four different trackers to be placed within each ad. Even so, there is high pressure from company leadership to push this deal forward as quickly as possible.
+You are a developer on the revenue team. You have been tasked with adding in a new ad campaign that your company just sold space for. It was a major sale, which will bring critical revenue to the company. At first, everything seems normal. Upon closer inspection, you notice that the ad will include four different trackers, one of which seems like it could be malicious. Even so, there is high pressure coming down from your bosses to push this campaign forward as quickly as possible.  
 
 
 ### Your Newsroom

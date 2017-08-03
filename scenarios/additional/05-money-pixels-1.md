@@ -11,4 +11,4 @@ description:
 
 ### The Twist 😱😱😱😱😱
 
-As you are looking at each of the trackers, you find out that one of them comes from a company that is known to be particularly careless with user’s data. It seems like they could be more malicious with the tracking of data— and possibly steal user’s data from the page.
+As you are looking at each of the trackers, you realize that one of them comes from a company known to be particularly careless with user data. This could be a threat to your users, and could lead to data being stolen against their consent.

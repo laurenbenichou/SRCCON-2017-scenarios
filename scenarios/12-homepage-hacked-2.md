@@ -11,7 +11,7 @@ description:
 
 ### The Scenario
 
-You just woke up and looked at the front page of the newspaper you work for. The very first article that appears is Pressure builds in House to elect CHIPPY 1337. The article is a clear hack, with several disparaging images and phrases within the body. Immediately the engineering team steps up to take the article down, but the account that was used to create it was brand new and given permissions of an editor. At this point, you are unsure how this account was created or if they have altered any other articles on the site.
+You just wake up and visit your newspaper's website. Something is odd. The very first article reads *"Pressure builds in House to elect CHIPPY 1337"*. What is going on? You investigate further and you see several disparaging images and phrases within the body. You immediately warn your managing editor. They take down the article, but they notice that the account that was used to create it is brand new and was given permissions of an editor. At this point, you are unsure how this account was created or if they have altered any other articles on the site.
 
 
 
