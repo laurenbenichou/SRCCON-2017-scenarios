@@ -12,6 +12,7 @@ Hackers, governmental entities, malicious ads, coffeeshop snoopers, airline Wi-f
 Privacy in the digital world is complex and it is time for newsrooms to solidify their footing with new guidelines and tips. We want to explore multiple scenarios involving a privacy breach. The scenarios will cover behavioral, technological, and ethical issues based on real-life examples. You, the newsroom, will tackle the situation given to you. Your mission: come up with a set of guidelines on how to prevent and respond to your specific scenario.
 
 ### The Rules
+
 + Work as a group.
 + Consider your newsroom's resources
 + Take notes!
